@@ -1,10 +1,12 @@
 A go implemntation of Hello World example
 
 
-git clone github.com/vicgupta/hello-go.git
+For Instructions on running:
 
-cd hello-go
+  git clone github.com/vicgupta/hello-go.git
 
-docker build . -t hello-go
+  cd hello-go
 
-docker run hello-go
+  docker build . -t hello-go
+
+  docker run hello-go
